@@ -1,7 +1,7 @@
 <Content>
 <item title="Buscar" shortdescriptionline1="Buscar" hdgridposterurl="https://img.clipartfest.com/560c1eea871d34efc576000a5b3fd8db_search-search-by-image_512-512.png" url="http://www.sdktestinglab.com/Tutorial/content/rendergrid.xml"/> 
 <item title="Favoritos" shortdescriptionline1="Favoritos" hdgridposterurl="https://img.clipartfest.com/bd5fc5f3699c501950918dd658869295_clipart-png-file-tag-list-favorite-clip-art_900-900.png" url="http://www.sdktestinglab.com/Tutorial/content/rendergrid.xml"/>
-<item title="Peliculas" shortdescriptionline1="Peliculas" hdgridposterurl="https://www.hopespeak.com/blog/wp-content/uploads/2015/02/movies-for-lunar-new-year.jpeg" url="https://raw.githack.com/Eduardox/Ace/master/Peliculas.xml"/>
+<item title="Peliculas" shortdescriptionline1="Peliculas" hdgridposterurl="https://www.hopespeak.com/blog/wp-content/uploads/2015/02/movies-for-lunar-new-year.jpeg" url="http://raw.githack.com/Eduardox/Ace/master/Peliculas.xml"/>
 <item title="Series" shortdescriptionline1="Series" hdgridposterurl="https://4.bp.blogspot.com/-6loyXT3YElQ/V1lL370EdhI/AAAAAAAABQU/09zmvbXiQ08OuhsmpOtScrJvqlWYyEMQQCLcB/s640/series.png" url="http://raw.githack.com/Eduardox/Ace/master/Series.xml"/>
 <item title="Niños" shortdescriptionline1="Niños" hdgridposterurl="https://static.guiainfantil.com/pictures/articulos/411-3-chistes-de-ninos-para-los-ninos.jpg" url="http://www.sdktestinglab.com/Tutorial/content/rendergrid.xml"/>
 <item title="Live TV" shortdescriptionline1="Live TV" hdgridposterurl="http://media.salon.com/2014/10/shutterstock_154257524-1280x960.jpg" url="http://www.sdktestinglab.com/Tutorial/content/rendergrid.xml"/>
