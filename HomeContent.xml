@@ -16,6 +16,36 @@
     <item>
       <tittle>Peliculas</tittle>
       <picture></picture>
+      <categories>
+        <objeto>
+          <titulo>Todas</titulo>
+          <imagen></imagen>
+        </objeto>
+        <objeto>
+          <titulo>Populares</titulo>
+          <imagen></imagen>
+        </objeto>
+        <objeto>
+          <titulo>Orden Alfabetico</titulo>
+          <imagen></imagen>
+        </objeto>
+        <objeto>
+          <titulo>Orden por Año</titulo>
+          <imagen></imagen>
+        </objeto>
+        <objeto>
+          <titulo>Orden por Genero</titulo>
+          <imagen></imagen>
+        </objeto>      
+        <objeto>
+          <titulo>Ultimas Agregadas</titulo>
+          <imagen></imagen>
+          <submenu>
+            <articulo>
+            </articulo>
+          </submenu>
+        </objeto>
+      </categories>
     </item>
     <item>
       <tittle>Series</tittle>
