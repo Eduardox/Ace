@@ -1,75 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channel>
-  <menu>
-    <item>
-      <tittle>Continuar Viendo</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Buscar</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Favoritos</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Peliculas</tittle>
-      <picture></picture>
-      <categories>
-        <objeto>
-          <titulo>Todas</titulo>
-          <imagen></imagen>
-        </objeto>
-        <objeto>
-          <titulo>Populares</titulo>
-          <imagen></imagen>
-        </objeto>
-        <objeto>
-          <titulo>Orden Alfabetico</titulo>
-          <imagen></imagen>
-        </objeto>
-        <objeto>
-          <titulo>Orden por Año</titulo>
-          <imagen></imagen>
-        </objeto>
-        <objeto>
-          <titulo>Orden por Genero</titulo>
-          <imagen></imagen>
+<ace>
+  <channel>
+   <homescreen>
+      <menu numero="1">
+        <titulo>Continuar Viendo</titulo>
+        <imagen></imagen>
+      </menu>
+      <menu>
+       <titulo>Buscar</titulo>
+       <imagen></imagen>
+     </menu>
+     <menu numero="2">
+       <titulo>Favoritos</titulo>
+       <imagen></imagen>
+     </menu>
+     <menu numero="3">
+       <titulo>Peliculas</titulo>
+       <imagen></imagen>
+       <categoria>
+         <objeto>
+           <nombre>Todas</nombre>
+           <foto></foto>
+         </objeto>
+         <objeto>
+           <nombre>Populares</nombre>
+           <foto></foto>
+         </objeto>
+         <objeto>
+           <nombre>Orden Alfabetico</nombre>
+           <foto></foto>
+         </objeto>
+         <objeto>
+           <nombre>Orden por Año</nombre>
+           <foto></foto>
+         </objeto>
+         <objeto>
+           <nombre>Orden por Genero</nombre>
+           <foto></foto>
         </objeto>      
         <objeto>
-          <titulo>Ultimas Agregadas</titulo>
-          <imagen></imagen>
-          <submenu>
-            <articulo>
-            </articulo>
-          </submenu>
-        </objeto>
-      </categories>
-    </item>
-    <item>
-      <tittle>Series</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Niños</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Live TV</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Eventos/PPV</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Adultos</tittle>
-      <picture></picture>
-    </item>
-    <item>
-      <tittle>Configuración</tittle>
-      <picture></picture>
-    </item>
-  </menu>
-</channel>
+          <nombre>Ultimas Agregadas</nombre>
+          <foto></foto>
+            <submenu numero="1">
+              <articulo>
+                <name>Estrenos</name>
+                <picture></picture>
+              </articulo>
+              <articulo>
+                <name>Agregadas Recientemente</name>
+                <picture></picture>
+              </articulo>
+            </submenu>
+         </objeto>
+        </categoria>
+      </menu>
+      <menu numero="4">
+        <titulo>Series</titulo>
+        <imagen></imagen>
+      </menu>
+      <menu>
+        <titulo>Niños</titulo>
+        <imagen></imagen>
+      </menu>
+      <menu numero="5">
+       <titulo>Live TV</titulo>
+       <imagen></imagen>
+      </menu>
+      <menu numero="6">
+        <titulo>Eventos/PPV</titulo>
+        <imagen></imagen>
+      </menu>
+      <menu numero="7">
+        <titulo>Adultos</titulo>
+        <imagen></imagen>
+      </menu>
+      <menu numero="8">
+        <titulo>Configuración</titulo>
+        <imagen></imagen>
+      </menu>
+    </homescreen>
+  </channel>
+</ace>
