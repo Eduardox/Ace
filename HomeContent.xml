@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ace>
   <channel>
-   <homescreen>
       <menu numero="1">
         <titulo>Continuar Viendo</titulo>
         <imagen></imagen>
@@ -78,6 +77,5 @@
         <titulo>Configuración</titulo>
         <imagen></imagen>
       </menu>
-    </homescreen>
   </channel>
 </ace>
